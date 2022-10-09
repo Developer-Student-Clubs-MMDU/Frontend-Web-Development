@@ -3,7 +3,7 @@
 ![nextjs](https://user-images.githubusercontent.com/76655825/194720648-0ad25e1e-a714-4fe9-8a4f-62dd15c050b6.png)
 ![vue](https://user-images.githubusercontent.com/76655825/194720575-f363f54b-07f7-46a0-878f-d618ecfb19f4.png)
 
-# Contributing guidelines
+# Contributing Guidelines📝
 
 ## Before contributing
 
@@ -69,7 +69,6 @@ Vue is a JavaScript framework for building user interfaces. It builds on top of 
 - Make sure your code lints
 - Run the Flow typechecks
 
-# Contributing Guidelines📝
 - Fork the Repo (Click the Fork button in the top right of this page, click your Profile Image)
  ![image](https://user-images.githubusercontent.com/80347492/194729264-db3e4901-b3f7-4d08-b64f-d9de8dbb4700.png)
 -  Clone your fork down to your local machine

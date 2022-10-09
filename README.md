@@ -64,7 +64,6 @@ Vue is a JavaScript framework for building user interfaces. It builds on top of 
 - If you decide to fix an issue, please be sure to check the comment thread in case somebody is already working on a fix. If nobody is working on it at the moment, please leave a comment stating that you intend to work on it so other people don’t accidentally duplicate your effort.
 
 ### Before submitting a pull request, please make sure the following is done:
-- Fork the repository and create your branch from main.
 - Run yarn in the repository root.
 - Make sure your code lints
 - Run the Flow typechecks
